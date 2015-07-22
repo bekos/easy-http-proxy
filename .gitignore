@@ -1,0 +1,11 @@
+### Build generated
+/dist/
+
+### Package manager generated
+/node_modules/
+
+### Logs
+*.log
+
+### OS generated files
+.DS_Store
